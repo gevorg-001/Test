@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurfaceCalculator", "SurfaceCalculator\SurfaceCalculator.csproj", "{2EF78560-E1FD-4608-BF6C-18FF3946951C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{7059DFCE-1C5F-4C5C-B4D8-CF4793E15FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{CFEB3452-C33A-4AAF-85EC-83EF14EB759D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF78560-E1FD-4608-BF6C-18FF3946951C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF78560-E1FD-4608-BF6C-18FF3946951C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF78560-E1FD-4608-BF6C-18FF3946951C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF78560-E1FD-4608-BF6C-18FF3946951C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7059DFCE-1C5F-4C5C-B4D8-CF4793E15FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7059DFCE-1C5F-4C5C-B4D8-CF4793E15FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7059DFCE-1C5F-4C5C-B4D8-CF4793E15FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7059DFCE-1C5F-4C5C-B4D8-CF4793E15FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEB3452-C33A-4AAF-85EC-83EF14EB759D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEB3452-C33A-4AAF-85EC-83EF14EB759D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEB3452-C33A-4AAF-85EC-83EF14EB759D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEB3452-C33A-4AAF-85EC-83EF14EB759D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E1E4ABC-8EB0-4EB2-9A74-D2BE5363AE17}
+	EndGlobalSection
+EndGlobal
